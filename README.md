@@ -9,6 +9,6 @@ Puzzle? Bah humbug. Time to break out the shell (as if a shell is something I br
 
 (OK, to be honest, there's a few minutes on the Googles to find an easily parseable list of tube stations).
 
-This beg the questions, is 'mackerel' really a special, magical word, or does other words posess the Mackerel Property? The answer, as given by the scripts in this repository, is yes. At least 10090 words in the English language has this property.
+This beg the question, is 'mackerel' really a special, magical word, or does other words posess the Mackerel Property? The answer, as given by the scripts in this repository, is yes. At least 10090 words in the English language has this property.
 
 The longest among these are 17 characters long. Including, ironically, the word "counterproductive" (which has the Mackerel Property for the station Balham).
