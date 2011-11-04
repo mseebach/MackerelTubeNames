@@ -1,0 +1,302 @@
+aldgate
+aldgate east
+all saints
+alperton
+amersham
+angel
+archway
+arnos grove
+arsenal
+baker street
+balham
+bank
+barbican
+barking
+barkingside
+barons court
+bayswater
+beckton
+beckton park
+becontree
+belsize park
+bermondsey
+bethnal green
+blackfriars
+blackhorse road
+blackwall
+bond street
+borough
+boston manor
+bounds green
+bow church
+bow road
+brent cross
+brixton
+bromley-by-bow
+buckhurst hill
+burnt oak
+caledonian road
+camden town
+canada water
+canary wharf
+canning town
+cannon street
+canons park
+chalfont & latimer
+chalk farm
+chancery lane
+charing cross
+chesham
+chigwell
+chiswick park
+chorleywood
+clapham common
+clapham north
+clapham south
+cockfosters
+colindale
+colliers wood
+covent garden
+crossharbour & london arena
+croxley
+custom house
+cutty sark for maritime greenwich
+cyprus
+dagenham east
+dagenham heathway
+debden
+deptford bridge
+devons row
+dollis hill
+ealing broadway
+ealing common
+earls court
+east acton
+east finchley
+east ham
+east india
+east putney
+eastcote
+edgware
+edgware road (bakerloo)
+edgware road (circle/district/h&c)
+elephant & castle
+elm park
+elverson road
+embankment
+epping
+euston
+euston square
+fairlop
+farringdon
+finchley central
+finchley road
+finsbury park
+fulham broadway
+gallions reach
+gants hill
+gloucester road
+golders green
+goldhawk road
+goodge street
+grange hill
+great portland street
+green park
+greenford
+greenwich
+gunnersbury
+hainault
+hammersmith (district)
+hammersmith (met.)
+hampstead
+hanger lane
+harlesden
+harrow & wealdstone
+harrow-on-the-hill
+hatton cross
+heathrow terminal 4
+heathrow terminals 1 2 3
+hendon central
+heron quays
+high barnet
+high street kensington
+highbury & islington
+highgate
+hillingdon
+holborn
+holland park
+holloway road
+hornchurch
+hounslow central
+hounslow east
+hounslow west
+hyde park corner
+ickenham
+island gardens
+kennington
+kensal green
+kensington (olympia)
+kentish town
+kenton
+kew gardens
+kilburn
+kilburn park
+kings cross st. pancras
+kingsbury
+knightsbridge
+ladbroke grove
+lambeth north
+lancaster gate
+latimer road
+leicester square
+lewisham
+leyton
+leytonstone
+limehouse
+liverpool street
+london bridge
+loughton
+maida vale
+manor house
+mansion house
+marble arch
+marylebone
+mile end
+mill hill east
+monument
+moor park
+moorgate
+morden
+mornington crescent
+mudchute
+neasden
+new cross
+new cross gate
+newbury park
+north acton
+north ealing
+north greenwich
+north harrow
+north wembley
+northfields
+northolt
+northwick park
+northwood
+northwood hills
+notting hill gate
+oakwood
+old street
+osterley
+oval
+oxford circus
+paddington
+park royal
+parsons green
+perivale
+piccadilly circus
+pimlico
+pinner
+plaistow
+poplar
+preston road
+prince regent
+pudding mill lane
+putney bridge
+queens park
+queensbury
+queensway
+ravenscourt park
+rayners lane
+redbridge
+regents park
+richmond
+rickmansworth
+roding valley
+rotherhithe
+royal albert
+royal oak
+royal victoria
+ruislip
+ruislip gardens
+ruislip manor
+russell square
+seven sisters
+shadwell
+shepherds bush (central)
+shepherds bush (hammersmith)
+shoreditch
+sloane square
+snaresbrook
+south ealing
+south harrow
+south kensington
+south kenton
+south quay
+south ruislip
+south wimbledon
+south woodford
+southfields
+southgate
+southwark
+st. jamess park
+st. johns wood
+st. pauls
+stamford brook
+stanmore
+stepney green
+stockwell
+stonebridge park
+stratford
+sudbury hill
+sudbury town
+surrey quays
+swiss cottage
+temple
+theydon bois
+tooting bec
+tooting broadway
+tottenham court road
+tottenham hale
+totteridge & whetstone
+tower gateway
+tower hill
+tufnell park
+turnham green
+turnpike lane
+upminster
+upminster bridge
+upney
+upton park
+uxbridge
+vauxhall
+victoria
+walthamstow central
+wanstead
+wapping
+warren street
+warwick avenue
+waterloo
+watford
+wembley central
+wembley park
+west acton
+west brompton
+west finchley
+west ham
+west hampstead
+west harrow
+west india quay
+west kensington
+west ruislip
+westbourne park
+westferry
+westminster
+white city
+whitechapel
+willesden green
+willesden junction
+wimbledon
+wimbledon park
+wood green
+woodford
+woodside park
